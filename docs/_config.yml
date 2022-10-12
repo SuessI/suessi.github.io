@@ -1,5 +1,5 @@
 title: Inges Site
-remote-theme : sighingnow/jekyll-gitbook
+theme : minima
 toc:
     enabled: true
     h_min: 1
